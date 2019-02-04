@@ -8,7 +8,9 @@ Create blank new files in the current path the Finder is focused on.
 
 ## Credits
 
-Original create file workflow (the workflow in this repo is a *shameless copy* but ported from a Ruby script to Bash script 😅): 
+The workflow in this repo is a *shameless copy* of an existing workflow. It's simply a port of a Ruby script to a Bash script 😅
+
+Original create file workflow:  
 http://www.packal.org/workflow/create-new-file-finder-file-type-templates
 
 Original icon by Omar Safaa on the [Noun Project](https://thenounproject.com):  
